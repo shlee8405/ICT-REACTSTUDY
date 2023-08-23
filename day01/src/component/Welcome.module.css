@@ -1,0 +1,10 @@
+.box {
+    width: 250px;
+    height: 100px;
+    background-color: teal;
+}
+
+.fg {
+    color: rgba(152, 216, 253, 1);
+    text-decoration: line-through;
+}

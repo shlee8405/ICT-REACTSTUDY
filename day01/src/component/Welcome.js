@@ -1,8 +1,11 @@
+import styles from './Welcome.module.css';
+
 
 const Welcome =  () => {
     return(
         <div>
-            <h2 className="welcome">Welcome</h2>
+            <h2 className={styles.fg}>Welcome</h2>
+            <div className={styles.box}> </div>
         </div>
     ); 
 }
